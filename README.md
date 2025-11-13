@@ -1,2 +1,3 @@
-# Freelance-Portfolio
-Portfolio repository containing links, showcases, and documentation for my Unreal Engine and C++ projects.
+# Unreal Engine C++ Portfolio
+I’m an Unreal Engine developer focusing on gameplay systems, optimization, and debugging.
+This repository contains small sample projects demonstrating my coding style and problem-solving approach.
