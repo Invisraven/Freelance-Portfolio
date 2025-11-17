@@ -1,3 +1,2 @@
-# Unreal Engine C++ Portfolio
-I’m an Unreal Engine developer focusing on gameplay systems, optimization, and debugging.
-This repository contains small sample projects demonstrating my coding style and problem-solving approach.
+I’m an Unreal Engine developer focused on gameplay systems, performance optimization, and debugging.
+This repository contains small C++ sample projects that demonstrate my coding style, problem-solving approach, and understanding of core programming principles.
